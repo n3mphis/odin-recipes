@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+}
+
+h2,
+h3 {
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: "Papyrus", "sans-serif";
+    font-size: 16px;
+}
+
+.u-list,
+.o-list {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+}
